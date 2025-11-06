@@ -1,0 +1,5 @@
+mylist=(12,28,13,16,19,15)
+print(mylist[2:])
+print(mylist[-4:-1])
+print(mylist[:-1])
+print(mylist[-4:])
